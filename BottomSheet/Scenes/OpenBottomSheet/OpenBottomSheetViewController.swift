@@ -8,7 +8,7 @@
 import UIKit
 
 final class OpenBottomSheetViewController: BottomSheetViewController {
-
+    
     private let contentView: OpenBottomSheetView
     
     init() {

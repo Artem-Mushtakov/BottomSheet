@@ -8,9 +8,9 @@
 import UIKit
 
 final class StartViewController: UIViewController {
-
+    
     private let openBottomSheetButton = UIButton(type: .system)
-
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         setupLayout()

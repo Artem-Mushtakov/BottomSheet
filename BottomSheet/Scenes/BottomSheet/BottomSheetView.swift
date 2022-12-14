@@ -100,7 +100,7 @@ final class BottomSheetView: UIView {
             backgroundView.trailingAnchor.constraint(equalTo: trailingAnchor),
             
             containerView.leadingAnchor.constraint(equalTo: leadingAnchor),
-            containerView.trailingAnchor.constraint(equalTo: trailingAnchor),
+            containerView.trailingAnchor.constraint(equalTo: trailingAnchor)
         ])
         
         containerViewHeightConstraint = containerView.heightAnchor.constraint(equalToConstant: defaultHeight)
