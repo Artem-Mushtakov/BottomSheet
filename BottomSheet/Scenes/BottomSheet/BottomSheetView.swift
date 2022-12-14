@@ -9,16 +9,16 @@ import UIKit
 
 private enum Appearance {
     static let separatorCornerRadius: CGFloat = 2
-    static let  separatorTopOffset: CGFloat = 6
-    static let  separatorHeight: CGFloat = 4
-    static let  separatorWidth: CGFloat = 52
-    static let  dismissibleHeight: CGFloat = 200
-    static let  maximumContainerHeight: CGFloat = UIScreen.main.bounds.height - 64
-    static let  currentContainerHeight: CGFloat = 0
-    static let  backgroundAlpha: CGFloat = 0.6
-    static let  containerViewSpacing: CGFloat = 12
-    static let  animateContainerHeightDuration: TimeInterval = 0.1
-    static let  animateDismissViewDuration: TimeInterval = 0.3
+    static let separatorTopOffset: CGFloat = 6
+    static let separatorHeight: CGFloat = 4
+    static let separatorWidth: CGFloat = 52
+    static let dismissibleHeight: CGFloat = 200
+    static let maximumContainerHeight: CGFloat = UIScreen.main.bounds.height - 64
+    static let currentContainerHeight: CGFloat = 0
+    static let backgroundAlpha: CGFloat = 0.6
+    static let containerViewSpacing: CGFloat = 12
+    static let animateContainerHeightDuration: TimeInterval = 0.1
+    static let animateDismissViewDuration: TimeInterval = 0.3
     static let containerViewCornerRadius: CGFloat = 12
 }
 
